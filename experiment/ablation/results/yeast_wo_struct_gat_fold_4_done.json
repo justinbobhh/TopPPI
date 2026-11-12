@@ -1,0 +1,19 @@
+{
+  "variant": "wo_struct_gat",
+  "fold": 4,
+  "best_fold_f1": 0.9799818016378525,
+  "best_fold_metrics": {
+    "AUC": 0.9936996656769682,
+    "AUPR": 0.9941137280529034,
+    "Accuracy": 0.9803308001788109,
+    "F1": 0.9799818016378525,
+    "Precision": 0.9862637362637363,
+    "Recall": 0.9737793851717902,
+    "MCC": 0.9607264826343205,
+    "Specificity": 0.986737400530504
+  },
+  "completed_epochs": 20,
+  "seed": 42,
+  "k_folds": 5,
+  "split_source": "kfold"
+}

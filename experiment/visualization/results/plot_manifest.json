@@ -1,0 +1,48 @@
+{
+  "panels": {
+    "Yeast": {
+      "n": 2231,
+      "negative": 1117,
+      "positive": 1114
+    },
+    "Multi-Species_01": {
+      "n": 3711,
+      "negative": 1607,
+      "positive": 2104
+    },
+    "Multi-Species_10": {
+      "n": 4557,
+      "negative": 2026,
+      "positive": 2531
+    },
+    "Multi-Species_25": {
+      "n": 6000,
+      "negative": 3000,
+      "positive": 3000
+    },
+    "Multi-Species_40": {
+      "n": 6000,
+      "negative": 3000,
+      "positive": 3000
+    },
+    "Multi-Species_any": {
+      "n": 6000,
+      "negative": 3000,
+      "positive": 3000
+    }
+  },
+  "preprocessing": "PCA to 50 dimensions; no normalization",
+  "tsne": {
+    "perplexity": 30,
+    "iterations": 1100,
+    "seed": 42,
+    "init": "pca",
+    "learning_rate": "auto"
+  },
+  "labels": {
+    "0": "negative / blue",
+    "1": "positive / red"
+  },
+  "sampling": "all supplied rows",
+  "note": "Each panel has an independent t-SNE fit. Row indices refer to the original per-panel concatenated input."
+}

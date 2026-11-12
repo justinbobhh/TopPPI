@@ -1,0 +1,19 @@
+{
+  "variant": "knn_only",
+  "fold": 4,
+  "best_fold_f1": 0.9796287913082843,
+  "best_fold_metrics": {
+    "AUC": 0.9940242356217912,
+    "AUPR": 0.9956383254477902,
+    "Accuracy": 0.9798837729101475,
+    "F1": 0.9796287913082843,
+    "Precision": 0.9809610154125114,
+    "Recall": 0.9783001808318263,
+    "MCC": 0.9597647673704739,
+    "Specificity": 0.9814323607427056
+  },
+  "completed_epochs": 20,
+  "seed": 42,
+  "k_folds": 5,
+  "split_source": "kfold"
+}

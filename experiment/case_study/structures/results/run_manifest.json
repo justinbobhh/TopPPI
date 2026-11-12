@@ -1,0 +1,65 @@
+{
+  "status": "complete",
+  "checkpoint": {
+    "path": "/path/to/TopPPI/multi_best_model_fold_1.pth",
+    "size_bytes": 2666187232,
+    "mtime_ns": 1779293660976851938,
+    "sha256": "79c3abc84709a6b4e9c52e626a3006ec3d52f5fd2799af2b2f0b2abacf32980f"
+  },
+  "model_source": {
+    "path": "/path/to/TopPPI/model.py",
+    "size_bytes": 5904,
+    "mtime_ns": 1779019126047162006,
+    "sha256": "141dd20ba5acdf571529255e7ecb623f4224e2a44dc51959ce7041085246205a"
+  },
+  "layers_source": {
+    "path": "/path/to/TopPPI/layers.py",
+    "size_bytes": 8746,
+    "mtime_ns": 1781594346259667631,
+    "sha256": "51bcb0b618311b99465a019b7147a2d2fec4991deb447692b7f5f89a1f0a12d4"
+  },
+  "config_source": {
+    "path": "/path/to/TopPPI/config.py",
+    "size_bytes": 1853,
+    "mtime_ns": 1780912367189923726,
+    "sha256": "3ed7a4825b6f90f072d94da0fc45955a17c115d0823383c5042d220d264333e9"
+  },
+  "manifest": {
+    "path": "/path/to/TopPPI/PCC/patch25_experiment/config/complex_manifest.csv",
+    "size_bytes": 631,
+    "mtime_ns": 1793455307248619057,
+    "sha256": "ed613537561df8aadb862ecc01e2ca330be1a118b33bb44b7b6c5c9c225aa380"
+  },
+  "script": {
+    "path": "/path/to/TopPPI/PCC/patch25_experiment/run_fold1_centroid_pcc.py",
+    "size_bytes": 7989,
+    "mtime_ns": 1793582296406825100,
+    "sha256": "34ea3ba6634e06b7ef8eb701f8ec24eaa06bead8623d34df094f61981be31e61"
+  },
+  "amp": "fp16",
+  "capture_atol": 0.002,
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "torch": "2.1.2+cu121",
+  "python": "3.10.19",
+  "esm_dir": "/path/to/TopPPI/esm2_t33_650M_UR50D",
+  "max_length": 800,
+  "padding": "max_length",
+  "patch_size": 25,
+  "score": "mean incoming cross-attention across heads and valid queries; each valid-key row renormalized",
+  "distance": "C-alpha to other chain C-alpha centroid, fallback missing CA to mean residue atom coordinates",
+  "both_chains": true,
+  "completed": [
+    "1BRS",
+    "1E6E",
+    "1FQJ",
+    "1JK9",
+    "1LB1",
+    "1LFD",
+    "2B10",
+    "2C35",
+    "2I9B",
+    "5JSB",
+    "5LSL",
+    "8HTI"
+  ]
+}

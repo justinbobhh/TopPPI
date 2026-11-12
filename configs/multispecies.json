@@ -1,0 +1,37 @@
+{
+  "embedding_dim": 1280,
+  "max_seq_len": 800,
+  "use_lora": true,
+  "lora_r": 8,
+  "lora_alpha": 32,
+  "lora_dropout": 0.1,
+  "lora_target_modules": [
+    "query",
+    "value"
+  ],
+  "contact_head_layer": 29,
+  "contact_head_indices": [
+    4,
+    7
+  ],
+  "contact_threshold": 0.1,
+  "knn_k": 10,
+  "gat_heads": 4,
+  "gat_dropout": 0.3,
+  "cross_attn_heads": 4,
+  "cross_attn_dropout": 0.1,
+  "projection_dim": 128,
+  "alpha_supcon": 0.1,
+  "beta_focal": 1.0,
+  "focal_gamma": 2.0,
+  "temperature": 0.07,
+  "batch_size": 8,
+  "grad_accum_steps": 1,
+  "use_fp16": true,
+  "gradient_checkpointing": true,
+  "gat_hidden_dim": 512,
+  "num_epochs": 12,
+  "lr": 5e-05,
+  "focal_alpha": 0.5,
+  "selection_metric": "AUROC"
+}

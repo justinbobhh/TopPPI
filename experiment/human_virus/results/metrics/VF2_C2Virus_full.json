@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-10-31T03:07:08+00:00",
+  "fold": "VF2",
+  "split": "C2Virus",
+  "run_tag": "full",
+  "is_partial": false,
+  "source_row_count": 66198,
+  "evaluated_row_count": 66198,
+  "input_order_contract": "CSV seq_a -> model first positional branch; CSV seq_b -> model second positional branch",
+  "source_file": {
+    "path": "/path/to/TopPPI/DeepGNHV-master/data/my_csv_data/VF2/VirusAppear_VF2_C2Virus.csv",
+    "size_bytes": 74087571,
+    "mtime_utc": "2026-04-20T15:12:55+00:00",
+    "fingerprint_mode": "full",
+    "sha256": "ef45ec39add72bd5296b71c8227ed05aa692a5d16f978d05af1bce444ae5d887"
+  },
+  "checkpoint_file": {
+    "path": "/path/to/TopPPI/best_model_VF2.pt",
+    "size_bytes": 2620485763,
+    "mtime_utc": "2026-05-03T12:29:40+00:00",
+    "fingerprint_mode": "full",
+    "sha256": "369fbae2a363fb01de1f097a0b7a66daba71e8bc4ccd47973097587fd4fe73c2"
+  },
+  "prediction_file": "/path/to/TopPPI/DeepGNHV-master/evaluation_tools/evaluation_outputs/predictions/VF2_C2Virus_full.csv",
+  "state_file": "/path/to/TopPPI/DeepGNHV-master/evaluation_tools/evaluation_outputs/states/VF2_C2Virus_full.json",
+  "amp": "off",
+  "device": "cuda",
+  "batch_size": 1,
+  "metrics": {
+    "n": 66198,
+    "positive_count": 6018,
+    "negative_count": 60180,
+    "positive_prevalence": 0.09090909090909091,
+    "threshold": 0.5,
+    "TN": 60103,
+    "FP": 77,
+    "FN": 4199,
+    "TP": 1819,
+    "AUROC": 0.8470211029700309,
+    "AUPRC": 0.5759755157082134,
+    "Accuracy": 0.9354059035016163,
+    "Precision": 0.9593881856540084,
+    "Recall": 0.3022598870056497,
+    "Specificity": 0.998720505151213,
+    "F1": 0.4596916856204195,
+    "MCC": 0.5187510396046316
+  },
+  "warnings": [],
+  "vf1_c2_reproduction_gate": null,
+  "selection_caveat": "C2Virus was used for checkpoint selection in the historical training script; these metrics are selection-set estimates, not an independent unseen-virus test."
+}

@@ -1,0 +1,194 @@
+{
+  "files": [
+    {
+      "path": "data/raw/yeast/train.tsv",
+      "source": "data/SSPPI/data/yeast/dataset/train.tsv",
+      "derived": false,
+      "bytes": 143200,
+      "sha256": "3a4ade335fdb26287acb3531ede88b5bbbcf58aacb4c164928fba641f93f056e"
+    },
+    {
+      "path": "data/raw/yeast/test.tsv",
+      "source": "data/SSPPI/data/yeast/dataset/test.tsv",
+      "derived": false,
+      "bytes": 35808,
+      "sha256": "dc458cfd1e6559d8390ffceb3e960aaac51a2d7804a85c7c93ec22b862ae39f6"
+    },
+    {
+      "path": "data/raw/yeast/source_5_fold/train1.tsv",
+      "source": "data/SSPPI/data/yeast/5_fold/train1.tsv",
+      "derived": false,
+      "bytes": 114560,
+      "sha256": "5c1346345695d3b1aed7a84f2f59ffd7e980d573a9fd092a1671fa7664c19411"
+    },
+    {
+      "path": "data/raw/yeast/source_5_fold/train2.tsv",
+      "source": "data/SSPPI/data/yeast/5_fold/train2.tsv",
+      "derived": false,
+      "bytes": 114560,
+      "sha256": "0f4f37dc581855f5f6a0728f7873bf533d5e40d548a80a0f1e12dfb1c59bac81"
+    },
+    {
+      "path": "data/raw/yeast/source_5_fold/train3.tsv",
+      "source": "data/SSPPI/data/yeast/5_fold/train3.tsv",
+      "derived": false,
+      "bytes": 114560,
+      "sha256": "edc44c6ab522df65a1a52e3689971e162cfeae88cfcb542fe28ab4abada343f9"
+    },
+    {
+      "path": "data/raw/yeast/source_5_fold/train4.tsv",
+      "source": "data/SSPPI/data/yeast/5_fold/train4.tsv",
+      "derived": false,
+      "bytes": 114560,
+      "sha256": "96eedcd3440397afafd5bd1ff638a031a874145e6aeede218cdf669e33e87505"
+    },
+    {
+      "path": "data/raw/yeast/source_5_fold/train5.tsv",
+      "source": "data/SSPPI/data/yeast/5_fold/train5.tsv",
+      "derived": false,
+      "bytes": 114560,
+      "sha256": "4a0bb6a24c00f98e10234e99873b62f4b1016a79c67da1c367d50cf85c97ecc6"
+    },
+    {
+      "path": "data/raw/yeast/source_5_fold/valid1.tsv",
+      "source": "data/SSPPI/data/yeast/5_fold/valid1.tsv",
+      "derived": false,
+      "bytes": 28640,
+      "sha256": "79453b80c202e8cbc2373a78123848c837d029ab8173d06afd09b1b90e0e30c4"
+    },
+    {
+      "path": "data/raw/yeast/source_5_fold/valid2.tsv",
+      "source": "data/SSPPI/data/yeast/5_fold/valid2.tsv",
+      "derived": false,
+      "bytes": 28640,
+      "sha256": "43f774b6d73f36184dc722bd5dc1f9d49ffc97240357be8d4c6a4532646b5b29"
+    },
+    {
+      "path": "data/raw/yeast/source_5_fold/valid3.tsv",
+      "source": "data/SSPPI/data/yeast/5_fold/valid3.tsv",
+      "derived": false,
+      "bytes": 28640,
+      "sha256": "753302dc9a76073b71154aba37c853a2b7524e07ad0c97d724b7de29be924f59"
+    },
+    {
+      "path": "data/raw/yeast/source_5_fold/valid4.tsv",
+      "source": "data/SSPPI/data/yeast/5_fold/valid4.tsv",
+      "derived": false,
+      "bytes": 28640,
+      "sha256": "f3dfeb4b719b056ca5a518655e0a8ca5fc98f107bfaeba32bacf240b6440ed33"
+    },
+    {
+      "path": "data/raw/yeast/source_5_fold/valid5.tsv",
+      "source": "data/SSPPI/data/yeast/5_fold/valid5.tsv",
+      "derived": false,
+      "bytes": 28640,
+      "sha256": "856e51fc4fb695d4b2b1d56856515e4813e95ef5a43544164d5923ae7452d6ee"
+    },
+    {
+      "path": "data/raw/yeast/sequences.tsv",
+      "source": "data/seq_ppi-master/yeast/preprocessed/protein.dictionary.tsv",
+      "derived": false,
+      "bytes": 1415079,
+      "sha256": "2d4cf209cae4af61836d99b82cff104de2e4e1fcd49046eedd80f42678b22848"
+    },
+    {
+      "path": "data/raw/multispecies/train_01.tsv",
+      "source": "data/SSPPI/data/multi_species/dataset/train_01.tsv",
+      "derived": false,
+      "bytes": 329519,
+      "sha256": "4eb61ee9f11b9334457cea61ebd1e0e33cc01e0b9caee486367edaed99965c71"
+    },
+    {
+      "path": "data/raw/multispecies/train_10.tsv",
+      "source": "data/SSPPI/data/multi_species/dataset/train_10.tsv",
+      "derived": false,
+      "bytes": 398239,
+      "sha256": "35de241e654a4e5a3279863f89f88e571cb10d129277dc77207da606cd196a57"
+    },
+    {
+      "path": "data/raw/multispecies/train_25.tsv",
+      "source": "data/SSPPI/data/multi_species/dataset/train_25.tsv",
+      "derived": false,
+      "bytes": 623938,
+      "sha256": "465c234a0feb292238717afb126affbddac72047229a801c07e65140e3627176"
+    },
+    {
+      "path": "data/raw/multispecies/train_40.tsv",
+      "source": "data/SSPPI/data/multi_species/dataset/train_40.tsv",
+      "derived": false,
+      "bytes": 834764,
+      "sha256": "88961fa6a2af9e7b539500037da039b881ddd7b83ea4ecefb3613e950328c53f"
+    },
+    {
+      "path": "data/raw/multispecies/train_any.tsv",
+      "source": "data/SSPPI/data/multi_species/dataset/train_any.tsv",
+      "derived": false,
+      "bytes": 1129671,
+      "sha256": "954b540a09cd499f4e8c2216b1765a635b19db5d420739ea9968f1d4c01800a5"
+    },
+    {
+      "path": "data/raw/multispecies/test_01.tsv",
+      "source": "data/SSPPI/data/multi_species/dataset/test_01.tsv",
+      "derived": false,
+      "bytes": 82673,
+      "sha256": "c7c3183d414755e651f9ae9b80fd7b06d66c21bccc144394a83063d5a8214241"
+    },
+    {
+      "path": "data/raw/multispecies/test_10.tsv",
+      "source": "data/SSPPI/data/multi_species/dataset/test_10.tsv",
+      "derived": false,
+      "bytes": 99369,
+      "sha256": "ed4f38d4032cd3e4b7561055393cc20df382fb5de52ef8e29c449763a923010d"
+    },
+    {
+      "path": "data/raw/multispecies/test_25.tsv",
+      "source": "data/SSPPI/data/multi_species/dataset/test_25.tsv",
+      "derived": false,
+      "bytes": 156115,
+      "sha256": "dabd2d18dba39136cba777775666ca4df3a72ca6b3f8a5d2ade08a849487190c"
+    },
+    {
+      "path": "data/raw/multispecies/test_40.tsv",
+      "source": "data/SSPPI/data/multi_species/dataset/test_40.tsv",
+      "derived": false,
+      "bytes": 208049,
+      "sha256": "38050a794a704cf76d582a320b9f1df79ac8bb67b100d96fdbe910a62e7cd0a9"
+    },
+    {
+      "path": "data/raw/multispecies/test_any.tsv",
+      "source": "data/SSPPI/data/multi_species/dataset/test_any.tsv",
+      "derived": false,
+      "bytes": 283118,
+      "sha256": "24e26b61bcdd753f5d4f7c3d5218527a4473543d1fed26f20c652e15da8ae090"
+    },
+    {
+      "path": "data/raw/multispecies/sequences.tsv",
+      "source": "data/seq_ppi-master/multi_species/preprocessed/CeleganDrosophilaEcoli.dictionary.tsv",
+      "derived": false,
+      "bytes": 5878871,
+      "sha256": "6f8f8869cbdced79337dbfdcffdf5843815d95dd7e31b895ed4b3f6a242a5bde"
+    },
+    {
+      "path": "data/raw/multiclass/train.tsv",
+      "source": "data/SSPPI/data/multi_class/dataset/train.tsv",
+      "derived": false,
+      "bytes": 3004628,
+      "sha256": "1d9afcd22d95525d8ec142e979965800b8e604e90f43b447b0c9c5710f3753d0"
+    },
+    {
+      "path": "data/raw/multiclass/test.tsv",
+      "source": "data/SSPPI/data/multi_class/dataset/test.tsv",
+      "derived": false,
+      "bytes": 333872,
+      "sha256": "cd198c0b4ccfe434fd67647285ddbff7bd57dde47a4d68ff9567c0d4adcd962e"
+    },
+    {
+      "path": "data/raw/multiclass/sequences.tsv",
+      "source": "derived from bundled process_multiclass/train.csv and test.csv; original retained sequence snapshot",
+      "derived": true,
+      "bytes": 2615122,
+      "sha256": "8178dfe69ddd33cb8045680e92ba8eb7a265bd0a8cba64e011d52d76fdb59ae2"
+    }
+  ],
+  "note": "Multi-class dictionary is a derived snapshot of retained sequences, not a new database download."
+}

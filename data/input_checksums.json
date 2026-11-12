@@ -1,0 +1,422 @@
+[
+  {
+    "file": "process_yeast/5_fold/train1.csv",
+    "source": "data/SSPPI/data/process_yeast/5_fold/train1.csv",
+    "bytes": 8217601,
+    "sha256": "a7713a550a200771546d80a4349dcbffbcb8f7eb59e3e818b7d93f02fdb40f48"
+  },
+  {
+    "file": "process_yeast/5_fold/train2.csv",
+    "source": "data/SSPPI/data/process_yeast/5_fold/train2.csv",
+    "bytes": 8225108,
+    "sha256": "f182720f3f674c9f71ac1f8b4707e4ae1b9ad119c9455861690e935276638f3a"
+  },
+  {
+    "file": "process_yeast/5_fold/train3.csv",
+    "source": "data/SSPPI/data/process_yeast/5_fold/train3.csv",
+    "bytes": 8215323,
+    "sha256": "66f2f3e0f1535429d109e1daae6e1aa610f2c3fffc7987cae8b0582c6b8ff459"
+  },
+  {
+    "file": "process_yeast/5_fold/train4.csv",
+    "source": "data/SSPPI/data/process_yeast/5_fold/train4.csv",
+    "bytes": 8153258,
+    "sha256": "fa1e2f688fea586c49f7019e70a2599bcb3aa28fc47d00861f15578a557ebb37"
+  },
+  {
+    "file": "process_yeast/5_fold/train5.csv",
+    "source": "data/SSPPI/data/process_yeast/5_fold/train5.csv",
+    "bytes": 8219466,
+    "sha256": "fc4532829f493d770fb2ebc603504bdd6b488e17912a5b6586d1e130bf12564b"
+  },
+  {
+    "file": "process_yeast/5_fold/valid1.csv",
+    "source": "data/SSPPI/data/process_yeast/5_fold/valid1.csv",
+    "bytes": 2040121,
+    "sha256": "aa778e7ea576f164aad089cbac214f39eedfd07621d6ccc80142785232d305b6"
+  },
+  {
+    "file": "process_yeast/5_fold/valid2.csv",
+    "source": "data/SSPPI/data/process_yeast/5_fold/valid2.csv",
+    "bytes": 2032614,
+    "sha256": "2e5035c1bfcef80bd8b34cfae871a33010c24c09eb6ab04e264e1ec1c13c8dc7"
+  },
+  {
+    "file": "process_yeast/5_fold/valid3.csv",
+    "source": "data/SSPPI/data/process_yeast/5_fold/valid3.csv",
+    "bytes": 2042399,
+    "sha256": "5a01d9688fd917bb60799723f806f070e4ad74a36149a9b325263ec22a4ee9f8"
+  },
+  {
+    "file": "process_yeast/5_fold/valid4.csv",
+    "source": "data/SSPPI/data/process_yeast/5_fold/valid4.csv",
+    "bytes": 2104464,
+    "sha256": "6006117c96c92a338cd92c81621d6753eba15444ecabc1e995113930547e7647"
+  },
+  {
+    "file": "process_yeast/5_fold/valid5.csv",
+    "source": "data/SSPPI/data/process_yeast/5_fold/valid5.csv",
+    "bytes": 2038256,
+    "sha256": "41ecd8c9c1633f93e394107c4dcf2469995e31762ab49b16f2b5328333312720"
+  },
+  {
+    "file": "process_yeast/data_all.csv",
+    "source": "data/SSPPI/data/process_yeast/data_all.csv",
+    "bytes": 12773055,
+    "sha256": "3fe53a9ea39b8ba86292bb447ef77ce350e086d649240c9f058310f35f7f478b"
+  },
+  {
+    "file": "process_yeast/test.csv",
+    "source": "data/SSPPI/data/process_yeast/test.csv",
+    "bytes": 2515421,
+    "sha256": "2c6ee4fbf57ad17653a4d5b08eaf36d07e9c6bce6f32a8bed0af55bc34f17d72"
+  },
+  {
+    "file": "process_yeast/train.csv",
+    "source": "data/SSPPI/data/process_yeast/train.csv",
+    "bytes": 10257678,
+    "sha256": "3e8a66bc6d4aee7ef127921c1f2992658d57eef1920ac69f8496a87a2cec73e8"
+  },
+  {
+    "file": "process_multispecies/dataset40_merged.csv",
+    "source": "data/SSPPI/data/process_multispecies/dataset40_merged.csv",
+    "bytes": 51827934,
+    "sha256": "8ef6c647044adedcbce353cdaa6f931c5992304f23b0c4d1cc60f7376e4bd01f"
+  },
+  {
+    "file": "process_multispecies/kfold_5_splits/dataset40_merged_all.csv",
+    "source": "data/SSPPI/data/process_multispecies/kfold_5_splits/dataset40_merged_all.csv",
+    "bytes": 51827934,
+    "sha256": "fc808d79983d1b8510495f305b993f60b57f3f49defee1350a60b1ae546c8bb0"
+  },
+  {
+    "file": "process_multispecies/kfold_5_splits/fold_1_train.csv",
+    "source": "data/SSPPI/data/process_multispecies/kfold_5_splits/fold_1_train.csv",
+    "bytes": 41402289,
+    "sha256": "e80e0165cdbb7e0c833ab64b0850044e9d5dcbcd1ed6595e117d8c1fb2a8fb74"
+  },
+  {
+    "file": "process_multispecies/kfold_5_splits/fold_1_val.csv",
+    "source": "data/SSPPI/data/process_multispecies/kfold_5_splits/fold_1_val.csv",
+    "bytes": 10425689,
+    "sha256": "05f64f39185a13a4bec719b426be0b041e3d59642fbd622307e621194a570459"
+  },
+  {
+    "file": "process_multispecies/kfold_5_splits/fold_2_train.csv",
+    "source": "data/SSPPI/data/process_multispecies/kfold_5_splits/fold_2_train.csv",
+    "bytes": 41565053,
+    "sha256": "d25b5b28d7d5e7c92cc2371607ec9fcd61832e5027de51dd8420eece9fb0b8cb"
+  },
+  {
+    "file": "process_multispecies/kfold_5_splits/fold_2_val.csv",
+    "source": "data/SSPPI/data/process_multispecies/kfold_5_splits/fold_2_val.csv",
+    "bytes": 10262925,
+    "sha256": "58f5ad879c9d303d3d6fac087c21e9e892bf7272e5d0727b097a0bfec5d0c88a"
+  },
+  {
+    "file": "process_multispecies/kfold_5_splits/fold_3_train.csv",
+    "source": "data/SSPPI/data/process_multispecies/kfold_5_splits/fold_3_train.csv",
+    "bytes": 41500723,
+    "sha256": "0e3a761a78ef911078702b870297d20825a51ec690132a9406c0d611ff5f1510"
+  },
+  {
+    "file": "process_multispecies/kfold_5_splits/fold_3_val.csv",
+    "source": "data/SSPPI/data/process_multispecies/kfold_5_splits/fold_3_val.csv",
+    "bytes": 10327255,
+    "sha256": "a64b522805df0005344522e1729f68e4180861766cd23011b0a44813b95300ce"
+  },
+  {
+    "file": "process_multispecies/kfold_5_splits/fold_4_train.csv",
+    "source": "data/SSPPI/data/process_multispecies/kfold_5_splits/fold_4_train.csv",
+    "bytes": 41464080,
+    "sha256": "ca393d51c15b660416db8f06a501954da6bce15e2fd406e02562e770b4f39c83"
+  },
+  {
+    "file": "process_multispecies/kfold_5_splits/fold_4_val.csv",
+    "source": "data/SSPPI/data/process_multispecies/kfold_5_splits/fold_4_val.csv",
+    "bytes": 10363898,
+    "sha256": "4bca9c0577b044d02a6847099409e4f24f4c3e1ca2d0f370d7c8de85392b9ffb"
+  },
+  {
+    "file": "process_multispecies/kfold_5_splits/fold_5_train.csv",
+    "source": "data/SSPPI/data/process_multispecies/kfold_5_splits/fold_5_train.csv",
+    "bytes": 41379635,
+    "sha256": "de5a854adffb458366ee3f04f1232e582d9c9b59b8a2b1fc6138eb85454e75a7"
+  },
+  {
+    "file": "process_multispecies/kfold_5_splits/fold_5_val.csv",
+    "source": "data/SSPPI/data/process_multispecies/kfold_5_splits/fold_5_val.csv",
+    "bytes": 10448343,
+    "sha256": "47db5b1bf79d80a87a8aa3b0942ef61d89c9bf4be8bf623121200bb9c5dd6362"
+  },
+  {
+    "file": "process_multispecies/test_01.csv",
+    "source": "data/SSPPI/data/process_multispecies/test_01.csv",
+    "bytes": 4013490,
+    "sha256": "7216c134d800a6481f4fafd9dafe7f06c704e9a59fad9a942040271937b32b8c"
+  },
+  {
+    "file": "process_multispecies/test_10.csv",
+    "source": "data/SSPPI/data/process_multispecies/test_10.csv",
+    "bytes": 5142348,
+    "sha256": "a8a54812dec6851cbeb951d9dd8b29339c0371e6c4eed60d7954683bea241346"
+  },
+  {
+    "file": "process_multispecies/test_25.csv",
+    "source": "data/SSPPI/data/process_multispecies/test_25.csv",
+    "bytes": 7855316,
+    "sha256": "144be17822b9de26767aeca00b591e3cb8494d4b3c1cd08cf8713373a51327e5"
+  },
+  {
+    "file": "process_multispecies/test_40.csv",
+    "source": "data/SSPPI/data/process_multispecies/test_40.csv",
+    "bytes": 10374938,
+    "sha256": "ba48f7bb596cc6cebf8937f0147f34af037355013709a358ffa37f0f3c751a9c"
+  },
+  {
+    "file": "process_multispecies/test_any.csv",
+    "source": "data/SSPPI/data/process_multispecies/test_any.csv",
+    "bytes": 13776642,
+    "sha256": "74f56d16ecbc5ae6c7408c894200d8607f06d3615bd3e58242f75d7810faee1c"
+  },
+  {
+    "file": "process_multispecies/train_01.csv",
+    "source": "data/SSPPI/data/process_multispecies/train_01.csv",
+    "bytes": 16183260,
+    "sha256": "f4a9bd8096abbfb90762c88748a25cba94d26599b3085ed48763009e2e029cd6"
+  },
+  {
+    "file": "process_multispecies/train_10.csv",
+    "source": "data/SSPPI/data/process_multispecies/train_10.csv",
+    "bytes": 20393516,
+    "sha256": "31e23c4cbee9356d9304e29dd0a276c3978e70fa25f3a3da15509870f11f096d"
+  },
+  {
+    "file": "process_multispecies/train_25.csv",
+    "source": "data/SSPPI/data/process_multispecies/train_25.csv",
+    "bytes": 31786121,
+    "sha256": "1f79cbd982fbee38b178049c68b5184a353eb0c6d1018141009ec7dd7b658fd3"
+  },
+  {
+    "file": "process_multispecies/train_40.csv",
+    "source": "data/SSPPI/data/process_multispecies/train_40.csv",
+    "bytes": 41453040,
+    "sha256": "d06cdc5b51b2dcf4d127729eae179680cb7b3518a4edd96ef04b993316e7a176"
+  },
+  {
+    "file": "process_multispecies/train_any.csv",
+    "source": "data/SSPPI/data/process_multispecies/train_any.csv",
+    "bytes": 55089822,
+    "sha256": "dd11b949aea408f7887848fe7302571751a06106b0e9dc1cc240363bf25f0216"
+  },
+  {
+    "file": "process_multiclass/dataset_merged_all.csv",
+    "source": "data/SSPPI/data/process_multiclass/dataset_merged_all.csv",
+    "bytes": 80458589,
+    "sha256": "5ce3d93f3c136befb514e0ba8e128cf5872e88e4872d6fd8c12b12845f853a49"
+  },
+  {
+    "file": "process_multiclass/test.csv",
+    "source": "data/SSPPI/data/process_multiclass/test.csv",
+    "bytes": 7959025,
+    "sha256": "2141a838dba2d98cd0645c39411efb1d9c31ba3dd6388a2046a192a6bf8307a2"
+  },
+  {
+    "file": "process_multiclass/train.csv",
+    "source": "data/SSPPI/data/process_multiclass/train.csv",
+    "bytes": 72499608,
+    "sha256": "e13f55c068cd98faa50f6a0b6ccc4e8267ac65fa8c14d8b4e0d2c65577cf311d"
+  },
+  {
+    "file": "human_virus/VF1/VirusAppear_VF1_Train.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF1/VirusAppear_VF1_Train.csv",
+    "bytes": 213672730,
+    "sha256": "71d716b5200a6826c0c1bcb41abb412222451b3217071b50a6bd8c163e98d627"
+  },
+  {
+    "file": "human_virus/VF1/VirusAppear_VF1_Test.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF1/VirusAppear_VF1_Test.csv",
+    "bytes": 45858423,
+    "sha256": "c30673a658597a8b811a406d7b0913dc4c25709fdbea89f29135460875eec448"
+  },
+  {
+    "file": "human_virus/VF1/VirusAppear_VF1_C1Virus.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF1/VirusAppear_VF1_C1Virus.csv",
+    "bytes": 45526531,
+    "sha256": "d539391a87a972a69c6ae23b7d3152a5d9608557e278781ecdec2910a11e2e57"
+  },
+  {
+    "file": "human_virus/VF1/VirusAppear_VF1_C2Virus.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF1/VirusAppear_VF1_C2Virus.csv",
+    "bytes": 81215637,
+    "sha256": "be145585d48418808870717e8a51a5f879250e9e7199b466f81763d32c856326"
+  },
+  {
+    "file": "human_virus/VF2/VirusAppear_VF2_Train.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF2/VirusAppear_VF2_Train.csv",
+    "bytes": 217090760,
+    "sha256": "bcaa417cc9873abbe57d41893a3d6917f5ccac031bf79bf347dd9932a7c90813"
+  },
+  {
+    "file": "human_virus/VF2/VirusAppear_VF2_Test.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF2/VirusAppear_VF2_Test.csv",
+    "bytes": 46593275,
+    "sha256": "2de3e844ef3c77f3eec8ebfe0d0cd810bd844cc8b16f7357cac556d95804178b"
+  },
+  {
+    "file": "human_virus/VF2/VirusAppear_VF2_C1Virus.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF2/VirusAppear_VF2_C1Virus.csv",
+    "bytes": 46701072,
+    "sha256": "5bcf0954aa2519b7b799622d242ce159be150318af8aee254ce9e3d29bfdd4db"
+  },
+  {
+    "file": "human_virus/VF2/VirusAppear_VF2_C2Virus.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF2/VirusAppear_VF2_C2Virus.csv",
+    "bytes": 74087571,
+    "sha256": "ef45ec39add72bd5296b71c8227ed05aa692a5d16f978d05af1bce444ae5d887"
+  },
+  {
+    "file": "human_virus/VF3/VirusAppear_VF3_Train.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF3/VirusAppear_VF3_Train.csv",
+    "bytes": 223556589,
+    "sha256": "25b1493f636fb95533bd6eea1a1c2fec7e3b798f1bf31d34a7946c6b09e425b0"
+  },
+  {
+    "file": "human_virus/VF3/VirusAppear_VF3_Test.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF3/VirusAppear_VF3_Test.csv",
+    "bytes": 48412781,
+    "sha256": "e0873c765b906d1cea09c4610095fefaffd346bf9f4a0f54a894e34fcc29b6b2"
+  },
+  {
+    "file": "human_virus/VF3/VirusAppear_VF3_C1Virus.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF3/VirusAppear_VF3_C1Virus.csv",
+    "bytes": 48200994,
+    "sha256": "06db9cd1d0b30992c59ff38d85b888504508948be1edccc15f0f086280f90d69"
+  },
+  {
+    "file": "human_virus/VF3/VirusAppear_VF3_C2Virus.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF3/VirusAppear_VF3_C2Virus.csv",
+    "bytes": 64511147,
+    "sha256": "d705e247e29832a65cd23642cfdaa4cd5aeeae1f3ce3f6529b87075a9d0dad17"
+  },
+  {
+    "file": "human_virus/VF4/VirusAppear_VF4_Train.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF4/VirusAppear_VF4_Train.csv",
+    "bytes": 209191774,
+    "sha256": "c09e5345c16fcd499466ee12e6f030bdecc88719a10e8d485cd85179d3f3ed49"
+  },
+  {
+    "file": "human_virus/VF4/VirusAppear_VF4_Test.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF4/VirusAppear_VF4_Test.csv",
+    "bytes": 45320805,
+    "sha256": "4cd9126e5a4c1f744d3865fa14d10556f0878fc5d8b4f1d649388b54b8d77276"
+  },
+  {
+    "file": "human_virus/VF4/VirusAppear_VF4_C1Virus.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF4/VirusAppear_VF4_C1Virus.csv",
+    "bytes": 45502133,
+    "sha256": "c2930df4759d5be204f4c1aa38eb0f90cd78dbf5b8ceb9be7a19d7bb9ff3c90c"
+  },
+  {
+    "file": "human_virus/VF4/VirusAppear_VF4_C2Virus.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF4/VirusAppear_VF4_C2Virus.csv",
+    "bytes": 85506978,
+    "sha256": "d93ee3f3c0af2bb604bdabd63db944f3d9882a84610757f7d666455afecefdcf"
+  },
+  {
+    "file": "human_virus/VF5/VirusAppear_VF5_Train.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF5/VirusAppear_VF5_Train.csv",
+    "bytes": 217328408,
+    "sha256": "75439b6b4f80e4f530fe81c0dbeaeef227756a668d503b4ae5c447673dcee044"
+  },
+  {
+    "file": "human_virus/VF5/VirusAppear_VF5_Test.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF5/VirusAppear_VF5_Test.csv",
+    "bytes": 46363027,
+    "sha256": "1de61b347704dab1f9701caccb3f4f46a0b3243762572ad1969048a502169b77"
+  },
+  {
+    "file": "human_virus/VF5/VirusAppear_VF5_C1Virus.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF5/VirusAppear_VF5_C1Virus.csv",
+    "bytes": 46536455,
+    "sha256": "35b01e7c04a812bd047d82aba7d84e68bf2e36f4876b6082ebcadfa54bb9bc68"
+  },
+  {
+    "file": "human_virus/VF5/VirusAppear_VF5_C2Virus.csv",
+    "source": "DeepGNHV-master/data/my_csv_data/my_csv_data/VF5/VirusAppear_VF5_C2Virus.csv",
+    "bytes": 74492861,
+    "sha256": "50cd7a512b1317b83cba1c8b667104127dd0e57406a2e1de2280d852dfd8a974"
+  },
+  {
+    "file": "pdb/1BRS.pdb",
+    "source": "pdb_dir/1BRS.pdb",
+    "bytes": 466965,
+    "sha256": "0076aae54252706a8c8c02f7b1e71ce2394b0e928b413590b4ac12aade9e8f6c"
+  },
+  {
+    "file": "pdb/1E6E.pdb",
+    "source": "pdb_dir/1E6E.pdb",
+    "bytes": 821745,
+    "sha256": "9aff4ff031764a2a4d5609041147785c2fc5afe2c5a209796342c66ef1243841"
+  },
+  {
+    "file": "pdb/1FQJ.pdb",
+    "source": "pdb_dir/1FQJ.pdb",
+    "bytes": 720252,
+    "sha256": "723fd45c2bd3d8a3920c0b5143d99d5e2c242173e191d655b86fa68c14ec27d8"
+  },
+  {
+    "file": "pdb/1JK9.pdb",
+    "source": "pdb_dir/1JK9.pdb",
+    "bytes": 539946,
+    "sha256": "1cbf5264ca66baf7e9b3ee5a39dcb9cc651bd876e2c6acb3d7ba66b53a4fb6ed"
+  },
+  {
+    "file": "pdb/1LB1.pdb",
+    "source": "pdb_dir/1LB1.pdb",
+    "bytes": 1397574,
+    "sha256": "ae817ef890ad0e49976389decd8060ba5c2df9e05136bbb7f4aa90c261a2c009"
+  },
+  {
+    "file": "pdb/1LFD.pdb",
+    "source": "pdb_dir/1LFD.pdb",
+    "bytes": 402975,
+    "sha256": "005cb2d0b934fed9615fc1192d41d82c02c66e687cc1e83a794dbe602d3fa7cf"
+  },
+  {
+    "file": "pdb/2B10.pdb",
+    "source": "pdb_dir/2B10.pdb",
+    "bytes": 610254,
+    "sha256": "870ae43f551063c064a3bf68aaefb69a29f0e77ecfba7b655da9f9b85e3bc89f"
+  },
+  {
+    "file": "pdb/2C35.pdb",
+    "source": "pdb_dir/2C35.pdb",
+    "bytes": 821259,
+    "sha256": "56140da1e4377e59bdce8867d824d830c622228972aa8353a6d83c425c6a3110"
+  },
+  {
+    "file": "pdb/2I9B.pdb",
+    "source": "pdb_dir/2I9B.pdb",
+    "bytes": 1085643,
+    "sha256": "ecea2b63ff5c516960ffe9fac110302bd60062b28fdeee9482634c0de6124575"
+  },
+  {
+    "file": "pdb/5JSB.pdb",
+    "source": "pdb_dir/5JSB.pdb",
+    "bytes": 2210166,
+    "sha256": "82b0419b5d0bd8a0a99d15c5b1c781c3945b77d1f7e77ab645ddcf843b35b64a"
+  },
+  {
+    "file": "pdb/5LSL.pdb",
+    "source": "pdb_dir/5LSL.pdb",
+    "bytes": 845073,
+    "sha256": "0d93da68623b7022448ad85996538a6ece6565367e577d841b5c1d7b3978d238"
+  },
+  {
+    "file": "pdb/8HTI.pdb",
+    "source": "pdb_dir/8HTI.pdb",
+    "bytes": 667926,
+    "sha256": "9580fce58fd1ff915ed0d7630e8893408ab353f1f52137e879891e377f666031"
+  }
+]

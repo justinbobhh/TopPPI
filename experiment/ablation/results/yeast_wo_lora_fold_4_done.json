@@ -1,0 +1,19 @@
+{
+  "variant": "wo_lora",
+  "fold": 4,
+  "best_fold_f1": 0.9492293744333635,
+  "best_fold_metrics": {
+    "AUC": 0.9845165746518868,
+    "AUPR": 0.9864960869746371,
+    "Accuracy": 0.9499329459097005,
+    "F1": 0.9492293744333635,
+    "Precision": 0.9518181818181818,
+    "Recall": 0.9466546112115732,
+    "MCC": 0.8998603310948998,
+    "Specificity": 0.9531388152077808
+  },
+  "completed_epochs": 20,
+  "seed": 42,
+  "k_folds": 5,
+  "split_source": "kfold"
+}

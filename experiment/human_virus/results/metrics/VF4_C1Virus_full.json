@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-10-31T12:42:08+00:00",
+  "fold": "VF4",
+  "split": "C1Virus",
+  "run_tag": "full",
+  "is_partial": false,
+  "source_row_count": 40326,
+  "evaluated_row_count": 40326,
+  "input_order_contract": "CSV seq_a -> model first positional branch; CSV seq_b -> model second positional branch",
+  "source_file": {
+    "path": "/path/to/TopPPI/DeepGNHV-master/data/my_csv_data/VF4/VirusAppear_VF4_C1Virus.csv",
+    "size_bytes": 45502133,
+    "mtime_utc": "2026-04-20T15:12:46+00:00",
+    "fingerprint_mode": "full",
+    "sha256": "c2930df4759d5be204f4c1aa38eb0f90cd78dbf5b8ceb9be7a19d7bb9ff3c90c"
+  },
+  "checkpoint_file": {
+    "path": "/path/to/TopPPI/best_model_VF4.pt",
+    "size_bytes": 2620485763,
+    "mtime_utc": "2026-05-10T07:29:52+00:00",
+    "fingerprint_mode": "full",
+    "sha256": "916eefffff7f8861cecd4fa2773af088a5d7adf66cce5cfbf1f3435f860cbcad"
+  },
+  "prediction_file": "/path/to/TopPPI/DeepGNHV-master/evaluation_tools/evaluation_outputs/predictions/VF4_C1Virus_full.csv",
+  "state_file": "/path/to/TopPPI/DeepGNHV-master/evaluation_tools/evaluation_outputs/states/VF4_C1Virus_full.json",
+  "amp": "off",
+  "device": "cuda",
+  "batch_size": 1,
+  "metrics": {
+    "n": 40326,
+    "positive_count": 3666,
+    "negative_count": 36660,
+    "positive_prevalence": 0.09090909090909091,
+    "threshold": 0.5,
+    "TN": 36420,
+    "FP": 240,
+    "FN": 1887,
+    "TP": 1779,
+    "AUROC": 0.9371318330754379,
+    "AUPRC": 0.7474474304065499,
+    "Accuracy": 0.9472548727867877,
+    "Precision": 0.8811292719167905,
+    "Recall": 0.48527004909983634,
+    "Specificity": 0.9934533551554828,
+    "F1": 0.6258575197889182,
+    "MCC": 0.6310588918547939
+  },
+  "warnings": [],
+  "vf1_c2_reproduction_gate": null,
+  "selection_caveat": null
+}

@@ -1,0 +1,13 @@
+panel_order,pdb_id,pdb_file,chain_a,chain_b,selection_note
+1,1BRS,1BRS.pdb,A,D,Fixed external panel; barnase-barstar chain pair
+2,1E6E,1E6E.pdb,A,B,Fixed external panel
+3,1FQJ,1FQJ.pdb,A,B,Fixed external panel
+4,1JK9,1JK9.pdb,A,B,Fixed external panel
+5,1LB1,1LB1.pdb,A,B,Fixed external panel
+6,1LFD,1LFD.pdb,A,B,Fixed external panel
+7,2B10,2B10.pdb,A,B,Fixed external panel
+8,2C35,2C35.pdb,A,B,Fixed external panel
+9,2I9B,2I9B.pdb,A,E,Fixed external panel
+10,5JSB,5JSB.pdb,A,B,Fixed external panel
+11,5LSL,5LSL.pdb,A,E,Fixed external panel; identifier is 5LSL
+12,8HTI,8HTI.pdb,R,A,Receptor-G-alpha interface; do not substitute A-B

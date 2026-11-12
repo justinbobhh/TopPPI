@@ -1,0 +1,39 @@
+{
+  "source": "facebook/esm2_t33_650M_UR50D",
+  "original_file": "esm2_t33_650M_UR50D/pytorch_model.bin",
+  "original_sha256": "c874668852c7275a159e2c7ceb6069671d7b1ba2c7b52f59600b34ce0f721008",
+  "tensors": 574,
+  "shards": [
+    {
+      "path": "pytorch_model-00001-of-00006.bin",
+      "size": 497404813,
+      "sha256": "a5835ac74460149779ae5fe7facf1526180c128cf69d8c6ba475f13fb40a6735"
+    },
+    {
+      "path": "pytorch_model-00002-of-00006.bin",
+      "size": 478865179,
+      "sha256": "4fd9a4f56ee8d0157096bcb13728a6a2825a3113d1c183650bda67ad01365e30"
+    },
+    {
+      "path": "pytorch_model-00003-of-00006.bin",
+      "size": 498530485,
+      "sha256": "faba4df2a8674e70dfa1cd98292774d712bf799a6e5117ca49035d9845b294bb"
+    },
+    {
+      "path": "pytorch_model-00004-of-00006.bin",
+      "size": 498525979,
+      "sha256": "5da6d9782c32be2fe35fb1badbe3134d74921c67eb1caa976a2d3681ebd811dc"
+    },
+    {
+      "path": "pytorch_model-00005-of-00006.bin",
+      "size": 498543968,
+      "sha256": "d7611c9f175b374194d455925461665e735888e9bb665540c3b818e6be15c437"
+    },
+    {
+      "path": "pytorch_model-00006-of-00006.bin",
+      "size": 137937267,
+      "sha256": "7962d64c16a92beb777a44ac77b2774e9377ca6ea7f795c38daeb63ce817f7b0"
+    }
+  ],
+  "verification": "Every saved shard tensor is torch.equal to the original local backbone."
+}

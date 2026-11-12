@@ -1,0 +1,69 @@
+{
+  "format": "topppi-shared-backbone-v1",
+  "base": "pretrained/esm2_t33_650M_UR50D",
+  "checkpoints": [
+    {
+      "task": "yeast",
+      "fold": 3,
+      "path": "checkpoints/yeast/best_model_fold_3.pth",
+      "source": "best_model/yeast_model/best_model_fold_3.pth",
+      "source_sha256": "388d9c9c91c85e165bb936c760e909aa2f75afcde896509ca9e07e987ce6517b",
+      "sha256": "b88de9a9fa50b067b81bce4578b83e2cfaa2ef2a4fc60a55a046b449a1b2c228",
+      "original_bytes": 2666182626,
+      "bytes": 77759003,
+      "shared_tensors": 567,
+      "retained_tensors": 188,
+      "all_tensors_equal_to_original": true,
+      "seconds": 8.1
+    },
+    {
+      "task": "multispecies",
+      "fold": 1,
+      "path": "checkpoints/multispecies/multi_best_model_fold_1.pth",
+      "source": "best_model/multispecies_model/multi_best_model_fold_1.pth",
+      "source_sha256": "79c3abc84709a6b4e9c52e626a3006ec3d52f5fd2799af2b2f0b2abacf32980f",
+      "sha256": "9f69b88c83b274a1b3c8078fd351f187d496a505bb8018fc7ea7377d7fc5c0ed",
+      "original_bytes": 2666187232,
+      "bytes": 77760231,
+      "shared_tensors": 567,
+      "retained_tensors": 188,
+      "all_tensors_equal_to_original": true,
+      "seconds": 6.54
+    },
+    {
+      "task": "multiclass",
+      "fold": 3,
+      "path": "checkpoints/multiclass/best_model_mc_fold_3.pth",
+      "source": "best_model/multiclass_model/best_model_mc_fold_3.pth",
+      "source_sha256": "90eec5387c350ecd209925d7d98ec32f13813910ce5e02c48a3488a52064fbe9",
+      "sha256": "24edb886e6db78c2a071b1ffcd1dc4133d4c02235b80c789668f57215404abf9",
+      "original_bytes": 2622933743,
+      "bytes": 25595237,
+      "shared_tensors": 567,
+      "retained_tensors": 200,
+      "all_tensors_equal_to_original": true,
+      "seconds": 7.39
+    },
+    {
+      "task": "human_virus",
+      "fold": 1,
+      "path": "checkpoints/human_virus/best_model_VF1.pt",
+      "source": "DeepGNHV-master/best_model/best_model_VF1.pt",
+      "source_sha256": "cf596d7283ae7ca867ff1d86a563c46ccbbc571788845da6fe4f687688521197",
+      "sha256": "dd6e3e617b0a5c34154989f9ad9cf261a849758f4404e0f5654464a915c37e25",
+      "original_bytes": 2620485763,
+      "bytes": 20267349,
+      "shared_tensors": 567,
+      "retained_tensors": 188,
+      "all_tensors_equal_to_original": true,
+      "seconds": 6.28
+    }
+  ],
+  "published_folds": {
+    "yeast": 3,
+    "multispecies": 1,
+    "multiclass": 3,
+    "human_virus": 1
+  },
+  "selection_basis": "Author-confirmed task-specific fold choices on 2026-11-11; not a new evaluation or cross-task ranking."
+}

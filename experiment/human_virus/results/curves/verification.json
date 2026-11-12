@@ -1,0 +1,87 @@
+{
+  "summary": {
+    "C1Virus": {
+      "fold_n": [
+        41261,
+        41459,
+        41393,
+        40326,
+        41118
+      ],
+      "mean_fold_AUROC": 0.9302503543524197,
+      "mean_fold_PR_AUC_trapezoidal": 0.7309004929386669,
+      "mean_fold_AP": 0.7309251481435048,
+      "area_of_plotted_mean_ROC": 0.9301988967726408,
+      "area_of_plotted_mean_PR": 0.7308947848568594
+    },
+    "C2Virus": {
+      "fold_n": [
+        67507,
+        66198,
+        66649,
+        73711,
+        68486
+      ],
+      "mean_fold_AUROC": 0.8432065837666718,
+      "mean_fold_PR_AUC_trapezoidal": 0.5617813837827029,
+      "mean_fold_AP": 0.5618017450847334,
+      "area_of_plotted_mean_ROC": 0.8431629276171964,
+      "area_of_plotted_mean_PR": 0.5617828668063072
+    }
+  },
+  "prediction_hashes": {
+    "VF1:C1Virus": {
+      "prediction_sha256": "384ead474b41fb83525a039e33fb52439181d1bdc8af0ff67c95a5db407f4e0b"
+    },
+    "VF2:C1Virus": {
+      "prediction_sha256": "0ed53c03f0e83d021a332889c7ac0bf89197479e7b5785ed1097413448f1b165"
+    },
+    "VF3:C1Virus": {
+      "prediction_sha256": "c3e5b9c46fb137cfa35ad26b9e28d28d1044c4984551397a3afadb387f66e059"
+    },
+    "VF4:C1Virus": {
+      "prediction_sha256": "50b8241a2a722f52892941d78acc7fdb8e641a0e417f03d02b245ade7d155878"
+    },
+    "VF5:C1Virus": {
+      "prediction_sha256": "45a2ccd9f711bf821fb4ef2aa58d3277941c093a779b9efe17a14e2b158a2a9f"
+    },
+    "VF1:C2Virus": {
+      "prediction_sha256": "e3cd1d736b97e5fb27bac20ff2d328d786401466877edf23158f15461f6c8383"
+    },
+    "VF2:C2Virus": {
+      "prediction_sha256": "f94990cd1a40c090fe176154f4f7fb119bb8759296c7763474ffec21b27106fb"
+    },
+    "VF3:C2Virus": {
+      "prediction_sha256": "f2dcc521c1e73ab438398ccab2ff6469ad10ffebdd19a8fb8165829372b73e7f"
+    },
+    "VF4:C2Virus": {
+      "prediction_sha256": "b266848857111a7e40e5730040c1319d063a595a633d73dc9d9dce7db92ea32e"
+    },
+    "VF5:C2Virus": {
+      "prediction_sha256": "572d86c83db93787a30f5e95e770c5685205f8f87e10045b86b5f138d2a7d768"
+    }
+  },
+  "averaging": "five fold curves linearly interpolated onto 1001 common FPR/recall points, then arithmetic mean",
+  "legend": "mean of five per-fold AUROC or trapezoidal PR-AUC; not necessarily area under plotted mean curve",
+  "baseline": "published curves are approximate raster digitizations, not raw predictions; published legend values",
+  "yellow_repair": {
+    "panel": "A",
+    "method": "TransPPI",
+    "removed_suspected_misclassified_pixels": [
+      {
+        "x": 0.2581143740340031,
+        "y": 0.864045864045864
+      },
+      {
+        "x": 0.26120556414219476,
+        "y": 0.8673218673218673
+      },
+      {
+        "x": 0.2782071097372488,
+        "y": 0.8722358722358723
+      }
+    ],
+    "rendering": "remaining adjacent points connected linearly; corrected values are not raw observations"
+  },
+  "limitations": "paper figure aggregation unspecified; historical C2Virus checkpoint selection; descriptive comparison only"
+}

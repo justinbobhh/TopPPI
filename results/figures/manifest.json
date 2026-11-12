@@ -1,0 +1,34 @@
+{
+  "existing_manuscript_figures": [
+    {
+      "file": "human_virus_roc_pr_trend.pdf",
+      "source": "latex/teacher_revision_20261106/en/human_virus_roc_pr_trend.pdf",
+      "sha256": "4c8bbbf207c22c45f3948700614b6dfdcaca862d66fd20cb24691a796f526cf2"
+    },
+    {
+      "file": "attention_layer_sensitivity.pdf",
+      "source": "latex/teacher_revision_20261106/en/attention_layer_sensitivity.pdf",
+      "sha256": "7493c01ceec72321e0158d0ef865f438c4a5cb923ed8ff3225daa3d2e4e6ba42"
+    },
+    {
+      "file": "attention_threshold_sensitivity.pdf",
+      "source": "latex/teacher_revision_20261106/en/attention_threshold_sensitivity.pdf",
+      "sha256": "1354dc198faaa34b34ab91cdb62a25cf110ff8336d8ad32829e405d9dc5d7208"
+    },
+    {
+      "file": "TopPPI_tsne_yeast3_ms1.pdf",
+      "source": "latex/teacher_revision_20261106/en/structpeftcl_tsne_yeast3_ms1.pdf",
+      "sha256": "b4a362e9bd814d6a323b2c4b46ce63676c708d0e424f5bc28728dba34fb2281e"
+    },
+    {
+      "file": "figure_12_panel_fold1.pdf",
+      "source": "latex/teacher_revision_20261106/en/figure_12_panel_fold1.pdf",
+      "sha256": "df5e14e5d663108392600c32655e9cf17dcc794e5763b1b65ecb305f411ed1c9"
+    },
+    {
+      "file": "wnt_crossover_network_fold1.pdf",
+      "source": "latex/teacher_revision_20261106/en/wnt_crossover_network_fold1.pdf",
+      "sha256": "89667be889664de736b42f0d7ac1715d7e3d52a3d1c781b08b3bfdd4087f7645"
+    }
+  ]
+}
